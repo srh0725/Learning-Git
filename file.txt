@@ -1,1 +1,2 @@
+Third line of text
 One line in the text box.
